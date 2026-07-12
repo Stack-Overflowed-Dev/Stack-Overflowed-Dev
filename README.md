@@ -1,16 +1,23 @@
-## Hi there 👋
+# Salut ! Moi c'est **Stack Overflowed** 💻
 
-<!--
-**Stack-Overflowed-Dev/Stack-Overflowed-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un lycéen passionné de tech et de dev. Mon but ? Créer des outils, des scripts et des solutions pour simplifier la vie des développeurs (et la mienne au passage, on va pas se mentir). 
 
-Here are some ideas to get you started:
+Élève ordinaire le jour, dev de l’ombre la nuit. Je passe mes heures de sommeil à créer des trucs utiles pour vous simplifier la vie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Ce que j'utilise au quotidien
+
+* **Langages :** JavaScript, Python, , html/css, C/C++ (en cours d'apprentissage)
+* **Frameworks & Libs :** Node.js, React, Electron
+* **Outils de dev :** Git, VS Code, JetBrains, Firebase
+
+---
+
+### 💬 Me contacter / Discuter
+
+Si tu veux parler de code, me proposer une idée de projet, ou juste m'expliquer pourquoi ton langage préféré est meilleur que le mien :
+
+* **Email :** `stack.overflowed.dev@proton.me`
+
+*Fait avec du café ☕ et beaucoup de recherches sur... Stack Overflow.*
